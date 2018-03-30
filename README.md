@@ -1,2 +1,2 @@
-# iFocusTour-DP-8-
-Tour website developed with Drupal 8.0.5
+# iFocusTour-DP-8
+Travel and Tour website developed with Drupal 8.0.5
